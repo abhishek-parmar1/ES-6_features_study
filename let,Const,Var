@@ -1,0 +1,7 @@
+let, const and var:
+	=> official doc:
+		- let : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+		- const : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+		- var : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+	=> Articles: 
+		- https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
