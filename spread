@@ -1,0 +1,6 @@
+Spread:
+	=> official doc:
+		- spread : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+	=> Articles: 
+		- https://davidwalsh.name/spread-operator
+		- https://dmitripavlutin.com/how-three-dots-changed-javascript/
