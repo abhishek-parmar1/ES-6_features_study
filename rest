@@ -1,0 +1,6 @@
+Rest:
+	=> official doc:
+		- rest : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+	=> Articles: 
+		- https://codeburst.io/use-es2015-object-rest-operator-to-omit-properties-38a3ecffe90
+
