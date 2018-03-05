@@ -15,7 +15,7 @@
 
 * [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) - Want to know [more](#extras)
 
-* [Abstract Article](#abstract)
+* Need [overview](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c) only
 
 ## EXTRAS
 Personaly read each of the article. :neckbeard:
@@ -44,7 +44,5 @@ Personaly read each of the article. :neckbeard:
   - [Article 1](https://hackernoon.com/javascript-es6-arrow-functions-and-lexical-this-f2a3e2a5e8c4)
   - [Article 2](https://medium.freecodecamp.org/arrow-functions-in-javascript-2f8bf7df5077)
 
-#### Abstract
-[here](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c)
 
 
