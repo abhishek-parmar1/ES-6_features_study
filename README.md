@@ -29,12 +29,12 @@ Personaly read each of the article. :neckbeard:
 * Var, Let & Const
   - [Article 1](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75) 
 * Template Literals
-  - [Article 1] (https://medium.com/@abhaytalreja/javascript-what-is-es6-template-literals-f2cadfca925a)
+  - [Article 1](https://medium.com/@abhaytalreja/javascript-what-is-es6-template-literals-f2cadfca925a)
 * Import
   - [Article 1](https://medium.com/@thejasonfile/a-simple-intro-to-javascript-imports-and-exports-389dd53c3fac)
 * Export
   - [Article 1](https://medium.com/@martinnovk_22870/using-javascript-es6-import-export-modules-in-chrome-extensions-f63a3a0d2736)
-  - [Article 2](https://medium.com/@netxm/what-is-tree-shaking-de7c6be5cadd)
+  - [Article 2](https://medium.com/@netxm/what-is-tree-shaking-de7c6be5cadd) - **Optional**
 
 
 
