@@ -8,7 +8,6 @@
 * [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) - Want to know [more](#extras)
 
 * [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) - Want to know [more](#extras)
-
 * [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export) - Want to know [more](#extras)
 
 * [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var) - Want to know [more](#extras)
