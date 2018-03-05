@@ -10,9 +10,8 @@
 * [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) - Want to know [more](#extras)
 * [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export) - Want to know [more](#extras)
 
-* [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var) - Want to know [more](#extras)
-* [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) - Want to know [more](#extras)
-* [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) - Want to know [more](#extras)
+* [spread](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) - Want to know [more](#extras)
+* [rest]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) - Want to know [more](#extras)
 
 * [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var) - Want to know [more](#extras)
 * [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) - Want to know [more](#extras)
@@ -34,6 +33,12 @@ Personaly read each of the article. :neckbeard:
 * Export
   - [Article 1](https://medium.com/@martinnovk_22870/using-javascript-es6-import-export-modules-in-chrome-extensions-f63a3a0d2736)
   - [Article 2](https://medium.com/@netxm/what-is-tree-shaking-de7c6be5cadd) - **Optional**
+* Spread
+  - [Article 1](https://davidwalsh.name/spread-operator)
+  - [Article 2](https://dmitripavlutin.com/how-three-dots-changed-javascript/)
+* Rest
+  - [Article 1](https://codeburst.io/use-es2015-object-rest-operator-to-omit-properties-38a3ecffe90)
+
 
 
 
