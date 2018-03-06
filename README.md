@@ -1,6 +1,5 @@
 # ES-6 Modules 
-### * Recomended to work with this Framework :bowtie:
-
+### * Recomended to work with this Framework :bowtie
 * [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var) - Want to know [more](#extras)
 * [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) - Want to know [more](#extras)
 * [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) - Want to know [more](#extras)
@@ -13,8 +12,7 @@
 * Need [overview](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c) only
 
 ## EXTRAS
-Personaly read each of the article. :neckbeard:
-
+> Personaly read each of the article. :neckbeard:
 * Var, Let & Const
   - [Article 1](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75) 
 * Template Literals
